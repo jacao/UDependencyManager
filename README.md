@@ -1,4 +1,4 @@
 # UDependencyManager
 
-A description of this package.
-# UDependencyManager
+References all other dependencies
+
